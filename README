@@ -2,9 +2,7 @@ Use case: You need to create a PDF.
 
 Possible Solutions:
 1. Do not create a PDF.
-2. You still need to create a PDF. 
-
-If you still need to create one, then you can possibly create it using HTML and print CSS. 
+2. You still need to create a PDF :( so use HTML and CSS because all content should be HTML.
 
 Controlling a document's page breaks, font rendering and margins is possible using the media type of print with CSS. However, browser's rendering engines do not follow these rules consistently by any means. The result is that printing a web page to PDF from a browser is most often pointless because of the quality of rendering.
 
