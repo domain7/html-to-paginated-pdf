@@ -11,5 +11,10 @@ In order to take advantage of print CSS declarations this program will take your
 Requirements:
 
 * OS X
+* ruby
+* Sinatra gem
+* wkpdf gem
+* Ruby cocoa
 * Connection to the Internets
+
 
